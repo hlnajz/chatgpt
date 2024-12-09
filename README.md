@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Hamza Ennaji</h1>
+<h1 align="center">Hi 👋, I'm Hamza Labbaalli</h1>
 <h3 align="center">This WhatsApp Bot integrates with CHATGPT by taking your questions and giving answers</h3>
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/hlnaji</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/hlnajz</h3>
 
 
 
